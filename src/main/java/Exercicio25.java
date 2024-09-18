@@ -1,4 +1,4 @@
-package com.mycompany.exercicio25;
+
 import javax.swing.JOptionPane;
 
 
