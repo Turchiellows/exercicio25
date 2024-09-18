@@ -2,8 +2,6 @@ package com.mycompany.exercicio25;
 import javax.swing.JOptionPane;
 
 
-//import java.util.Scanner;
-
 public class Exercicio25 {
 
 	public static void main(String[] args) {
@@ -27,6 +25,7 @@ public class Exercicio25 {
 		}
 		
 		double media = soma / qtde;
+		
 		
 		
 		// OUTPUT
