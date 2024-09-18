@@ -8,7 +8,7 @@ public class Exercicio25 {
 
 	public static void main(String[] args) {
 		// CONFIG
-		int qtde = 2;
+		int qtde = 20;
 		
 		
 		
